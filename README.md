@@ -1,1 +1,1 @@
-# js-development-env
+# JS Development Environment.
